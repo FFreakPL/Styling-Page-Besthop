@@ -1,10 +1,12 @@
 ## Styling preview
+`Desktop`
 <img width="360" alt="Zrzut ekranu 2022-06-30 o 10 31 11" src="https://user-images.githubusercontent.com/94534923/177100223-fe195bcc-89bd-479c-b3b1-54a5f69eb693.png">
 <img width="360" alt="Zrzut ekranu 2022-06-30 o 10 31 11" src="https://user-images.githubusercontent.com/94534923/177100209-2cea0983-d6bb-4a33-ac53-a89acb1c9cbf.png">
+<img width="360" alt="Zrzut ekranu 2022-06-30 o 10 31 11" src="https://user-images.githubusercontent.com/94534923/177100244-c700a96e-0e50-4873-825c-759de7ead986.png">
 
+`Mobile`
 <img width="360" alt="Zrzut ekranu 2022-06-30 o 10 31 11" src="https://user-images.githubusercontent.com/94534923/177100241-25171a0c-f11c-44ac-8115-1664880d650e.png">
 <img width="360" alt="Zrzut ekranu 2022-06-30 o 10 31 11" src="https://user-images.githubusercontent.com/94534923/177100243-c62e0fc9-96a8-4792-bf30-72be2e26f444.png">
-<img width="360" alt="Zrzut ekranu 2022-06-30 o 10 31 11" src="https://user-images.githubusercontent.com/94534923/177100244-c700a96e-0e50-4873-825c-759de7ead986.png">
 
 
 
