@@ -6,7 +6,9 @@
 
 `Mobile`
 <p><img width="360" alt="Zrzut ekranu 2022-06-30 o 10 31 11" src="https://user-images.githubusercontent.com/94534923/177100241-25171a0c-f11c-44ac-8115-1664880d650e.png"></p>
-<p><img width="360" alt="Zrzut ekranu 2022-06-30 o 10 31 11" src="https://user-images.githubusercontent.com/94534923/177100243-c62e0fc9-96a8-4792-bf30-72be2e26f444.png"></p>
+<p><img width="360" alt="Zrzut ekranu 2022-06-30 o 10 31 11" src="https://user-images.githubusercontent.com/94534923/177101190-82086168-25f0-454b-b57d-b4e8c2863c22.png"></p>
+<p><img width="360" alt="Zrzut ekranu 2022-06-30 o 10 31 11" src="https://user-images.githubusercontent.com/94534923/177101203-48f3c3f7-368f-428e-a602-cc7386431ce2.png"></p>
+<p><img width="360" alt="Zrzut ekranu 2022-06-30 o 10 31 11" src="https://user-images.githubusercontent.com/94534923/177101209-0cec7f40-5b00-4786-bba8-41ff76d9d398.png"></p>
 
 
 
